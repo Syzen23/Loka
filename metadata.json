@@ -1,0 +1,6 @@
+{
+  "name": "LokalSite - Local Business Landing Page Builder",
+  "description": "B2B SaaS platform for local businesses to build professional landing pages via visual drag-and-drop section builder or Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
